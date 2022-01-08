@@ -23,3 +23,23 @@ Je suis actuellement une formation de **Développeur Intégrateur d'Applications
 Très à l'aise avec les clients, fournisseurs, etc... je suis également capable de m'intégrer parfaitement dans le **travail d'équipe** tout autant que je peux m'organiser en **totale autonomie** pour vos projets. 
 
 N'hésitez donc pas à consulter mes projets en cours, et à me contacter si vous souhaitez que nous discutions de **vos projets** !
+
+## Ce que j'apprends en ce moment ?
+- HTML5 ***(perfectionnement)***
+- CSS ***(perfectionnement)***
+- Python
+
+## Mes projets actuels ? 
+- Création de Porfolio
+- Création d'un blog fictif ***(projet dans le cadre de ma formation)***
+
+## Ce que je souhaite faire ?
+
+Poursuivre mon apprentissage avec une formation de :
+- **Développeur Web et Web Mobile** niveau Bac+2 
+ou 
+- **Concepteur Développeur d'Applications** niveau Bac+3/4 en alternance
+
+## Comment me contacter ?
+1. Email : <grischka.gorski@gmail.com>
+2. Linkedin : [Grischka Gorski](www.linkedin.com/in/grischka-gorski-gg)
