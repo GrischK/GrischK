@@ -19,7 +19,7 @@ Mes crédos :
 > "Il est dur d'échouer mais il est pire de ne jamais avoir tenté de réussir".
 > -- <cite>Franklin Delano Roosevelt</cite>
 
-> Si votre plan échoue, changez de plan mais jamais d'objectif.
+> "Si votre plan échoue, changez de plan mais jamais d'objectif."
 
 > "On qualifie souvent d'impossible les choses que l'on a pas vraiment envie de faire".
 > -- <cite>Mike Horn</cite>
