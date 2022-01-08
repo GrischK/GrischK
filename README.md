@@ -70,7 +70,7 @@ My mantras:
 > "Failing is hard, but never having tried to succeed is worse.” 
 > -- <cite>Franklin Delano Roosevelt</cite>
 
->If your plan fails, then change it, but keep your focus.
+> "If your plan fails, then change it, but keep your focus."
 
 >“We often call things that we don't really want to do, impossible.” 
 > -- <cite>Mike Horn</cite>
