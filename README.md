@@ -17,12 +17,12 @@ Je m'appelle **Grischka Gorski**, et j'entame une nouvelle aventure professionne
 Mes crédos : 
 
 > "Il est dur d'échouer mais il est pire de ne jamais avoir tenté de réussir".
-> -- <cite>Franklin Delano Roosevelt</cite>
+> <cite>Franklin Delano Roosevelt</cite>
 
 > "Si votre plan échoue, changez de plan mais jamais d'objectif."
 
 > "On qualifie souvent d'impossible les choses que l'on a pas vraiment envie de faire".
-> -- <cite>Mike Horn</cite>
+> <cite>Mike Horn</cite>
 
 Après avoir découvert le pilotage et la **gestion de projet en MOA** au **Crédit Agricole**, ainsi que le codage via des cours en ligne, je désire acquérir des compétences techniques en développement pour évoluer dans un secteur qui m’attire et dans lequel je pourrai m’épanouir. 
 
