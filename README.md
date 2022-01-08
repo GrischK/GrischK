@@ -90,7 +90,7 @@ So please feel free to check out my ongoing projects, and contact me if you woul
 ## What am I learning right now?
 - HTML5 (improvement)
 - CSS (improvement)
-+ Python
+- Python
 
 ## My ongoing projects?
 - Portfolio creation
