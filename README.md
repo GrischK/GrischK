@@ -18,7 +18,7 @@ Mes crédos :
 
 > "Il est dur d'échouer mais il est pire de ne jamais avoir tenté de réussir".
 > 
-> - <cite>Franklin Delano Roosevelt</cite>
+> -- <cite>Franklin Delano Roosevelt</cite>
 
 > "Si votre plan échoue, changez de plan mais jamais d'objectif."
 
@@ -68,12 +68,12 @@ My name is **Grischka Gorski** and I am starting a new professional adventure as
 
 My mantras:
 > "Failing is hard, but never having tried to succeed is worse.” 
-> - <cite>Franklin Delano Roosevelt</cite>
+> -- <cite>Franklin Delano Roosevelt</cite>
 
 >If your plan fails, then change it, but keep your focus.
 
 >“We often call things that we don't really want to do, impossible.” 
->- <cite>Mike Horn</cite>
+> -- <cite>Mike Horn</cite>
 
 After discovering **project management at Crédit Agricole** contracting authority, as well as coding through online classes, I wish to acquire technical skills in development to evolve in an exciting industry in which I will be able to thrive.
 
