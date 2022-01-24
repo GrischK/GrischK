@@ -39,14 +39,15 @@ Très à l'aise avec les clients, fournisseurs, etc... je suis également capabl
 N'hésitez donc pas à consulter mes projets en cours, et à me contacter si vous souhaitez que nous discutions de **vos projets** !
 
 ## Ce que j'apprends en ce moment ?
-- HTML5 ***(perfectionnement)***
-- CSS ***(perfectionnement)***
 - Python
+- JavaScript
+- Sass
+- CSS
 
 ## Mes projets actuels ? 
 - Création de Porfolio
 - Création d'un blog fictif ***(projet dans le cadre de ma formation)***
-
+- Création d'un site marchand avec menu "burger" et versions responsive ***(projet dans le cadre de ma formation)***
 ## Ce que je souhaite faire ?
 
 Poursuivre mon apprentissage avec une formation de :
@@ -88,13 +89,15 @@ As well as being very confident in dealing with clients, suppliers, and so on, I
 So please feel free to check out my ongoing projects, and contact me if you would like to discuss **your projects** with me!
 
 ## What am I learning right now?
-- HTML5 (improvement)
-- CSS (improvement)
 - Python
+- JavaScript
+- Sass
+- CSS
 
 ## My ongoing projects?
 - Portfolio creation
 - Creation of a sample blog (project as part of my training)
+- Commercial website (project as part of my training)
 
 ## What I would like to do?
 Continue my learning process with a training program of:
