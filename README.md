@@ -9,7 +9,7 @@ GrischK/GrischK is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Bienvenue sur mon profile GitHub
+# Bienvenue sur mon profil GitHub
 
 ## Qui je suis ?
 Je m'appelle **Grischka Gorski**, et j'entame une nouvelle aventure professionnelle en tant que **Développeur Web / Concepteur Développeur d'Applications**.
