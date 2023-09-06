@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrischK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fulls-stack development projects,
+- 🌱 I’m currently learning NestJs,
+- 💞️ I’m looking to collaborate on Green tech, or other nice projects,
 - 📫 How to reach me ...
 
 <!---
@@ -32,7 +32,8 @@ Après avoir suivi une formation de **Développeur Intégrateur d'Applications W
 
 **Polyvalent, curieux** et doté d’une grande **capacité d’adaptation**, mes précédentes expériences professionnelles dans des secteurs d'activité variés m'ont apporté des compétences transverses qui seront certainement utiles dans votre entreprise.
 
-Diplômé de 2 bachelors en **Marketing & Ventes** et **Marketing** ainsi que d'un BTS **Management des Unités Commerciales**, je suis capable de m'adapter facilement aux besoins de vos/mes clients et de leur fournir le meilleur service possible pour leur apporter totale satisfaction.
+Diplômé d'un Bac+2 **Développeur Web & Web Mobile**, j'ai poursuivi mes études en développement avec une année d'alternance pour un Bac+4 **Concepteur Développeur d'Applications**.
+Je suis égalmenet titulaire de 2 bachelors en **Marketing & Ventes** et **Marketing** ainsi que d'un BTS **Management des Unités Commerciales**, je suis capable de m'adapter facilement aux besoins de vos/mes clients et de leur fournir le meilleur service possible pour leur apporter totale satisfaction.
 
 Très à l'aise avec les clients, fournisseurs, etc... je suis également capable de m'intégrer parfaitement dans le **travail d'équipe** tout autant que je peux m'organiser en **totale autonomie** pour vos projets. 
 
