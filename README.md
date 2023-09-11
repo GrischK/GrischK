@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Comment me contacter ?
 <p align="left", display:"flex">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/grischka-gorski-gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grischka-gorski-gg/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/grischka-gorski-gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grischka-gorski-gg/" height="30" width="40" /></a>
 </p>
 
 ## Mes technos :
