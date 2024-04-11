@@ -46,6 +46,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
+## Stats :
+[![Stats](https://github-readme-stats.vercel.app/api?username=GrischK&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/GrischK/github-readme-stats)
+
+## Top langages :
+[![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrischK)](https://github.com/GrischK/github-readme-stats)
+
 # Bienvenue sur mon profil GitHub
 
 ## Qui je suis ?
@@ -74,12 +80,6 @@ Je suis égalmenet titulaire de 2 bachelors en **Marketing & Ventes** et **Marke
 Très à l'aise avec les clients, fournisseurs, etc... je suis également capable de m'intégrer parfaitement dans le **travail d'équipe** tout autant que je peux m'organiser en **totale autonomie** pour vos projets. 
 
 N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **vos projets** !
-
-## Stats :
-[![Stats](https://github-readme-stats.vercel.app/api?username=GrischK&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/GrischK/github-readme-stats)
-
-## Top langages :
-[![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrischK)](https://github.com/GrischK/github-readme-stats)
 
 ## Ce que j'apprends en ce moment ?
 - Micro-services
