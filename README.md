@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrischK
 - 👀 I’m interested in Fulls-stack development projects,
 - 🌱 I’m currently learning NestJs,
-- 💞️ I’m looking to collaborate on Green tech, or other nice projects,
+- 💞️ I’m looking to collaborate on Green tech, or impactful projects,
 - 📫 How to reach me ...
 
 <!---
