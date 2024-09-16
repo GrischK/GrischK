@@ -1,4 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&pause=1500&center=true&vCenter=true&width=1920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Grischka" alt="Typing SVG" /></a>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 - 🚀 Full-stack JavaScript Developer (React | TypeScript | Node), 
 - 👀 I’m interested in Full-stack development projects,
@@ -20,22 +25,22 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br/>
 
-## Mes technos | My stack :
-<p>Front-end :</p>
+## Mes technos | My stack
+<ins>Front-end</ins>
 <div align="left" display="flex"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 <br/>
-<p>Back-end :</p>
+<ins>Back-end</ins>
 <div align="left" display="flex"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
 </div>
 <br/>
-<p>Mais aussi | But also :</p>
+<ins>Mais aussi | But also</ins>
 <div align="left" display="flex"> 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/>
@@ -52,10 +57,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 
-## Stats :
+## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=GrischK&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/GrischK/github-readme-stats)
 
-## Top langages | Top languages :
+## Top langages | Top languages
 [![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrischK)](https://github.com/GrischK/github-readme-stats)
 <br/>
 <br/>
