@@ -1,18 +1,19 @@
 - 👋 Hi, I’m @GrischK
 - 👀 I’m interested in Fulls-stack development projects,
-- 🌱 I’m currently learning NestJs,
+- 🌱 I’m currently learning ThreeJS,
 - 💞️ I’m looking to collaborate on Green tech, or impactful projects,
-- 📫 How to reach me ...
 
 <!---
 GrischK/GrischK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br/>
 
 ## Comment me contacter ?
 <p align="left", display:"flex">
 <a href="https://linkedin.com/in/grischka-gorski-gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grischka-gorski-gg/" height="30" width="40" /></a>
 </p>
+<br/>
 
 ## Mes technos :
 <p>Front-end :</p>
@@ -44,17 +45,21 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
 </div>
+<br/>
 
 ## Stats :
 [![Stats](https://github-readme-stats.vercel.app/api?username=GrischK&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/GrischK/github-readme-stats)
 
 ## Top langages :
 [![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrischK)](https://github.com/GrischK/github-readme-stats)
+<br/>
+<br/>
+<br/>
 
 # Bienvenue sur mon profil GitHub
 
 ## Qui je suis ?
-Je m'appelle **Grischka Gorski**, et j'entame une nouvelle aventure professionnelle en tant que **Développeur Web / Concepteur Développeur d'Applications**.
+Je m'appelle **Grischka Gorski**, plongée dans ma nouvelle aventure professionnelle de **Développeur Web / Concepteur Développeur d'Applications**.
 
 Mes crédos : 
 
@@ -68,46 +73,45 @@ Mes crédos :
 >
 > -- <cite>Mike Horn</cite>
 
-Après avoir découvert le pilotage et la **gestion de projet en MOA** au **Crédit Agricole**, ainsi que le codage via des cours en ligne, j'ai acquis des compétences techniques en développement pour évoluer dans un secteur qui m’attire et dans lequel je m’épanouis depuis presque 2 ans. 
+Après avoir découvert le pilotage et la **gestion de projet en MOA** au **Crédit Agricole**, ainsi que la programmation via des cours en ligne, j'ai acquis des compétences techniques en développement pour évoluer dans un secteur qui m’attire et dans lequel je m’épanouis depuis plus de 2 ans. 
 
-Après avoir suivi une formation de **Développeur Intégrateur d'Applications Web** et de **Développeur Web et Web Mobile** niveau Bac+2, je perfectionne et développe mes connaissances avec la formation de **Concepteur Développeur d'Applications** niveau Bac+3/4 que je suis en alternance dans l'entreprise Consonéo.
+Après avoir suivi une formation de **Développeur Intégrateur d'Applications Web** et de **Développeur Web et Web Mobile** niveau Bac+2, j'ai perfectionné et développé mes connaissances avec la formation de **Concepteur Développeur d'Applications** niveau Bac+3/4 en alternance.
 
 **Polyvalent, curieux** et doté d’une grande **capacité d’adaptation**, mes précédentes expériences professionnelles dans des secteurs d'activité variés m'ont apporté des compétences transverses qui seront certainement utiles dans votre entreprise.
 
-Je suis égalmenet titulaire de 2 bachelors en **Marketing & Ventes** et **Marketing** ainsi que d'un BTS **Management des Unités Commerciales**, je suis capable de m'adapter facilement aux besoins de vos/mes clients et de leur fournir le meilleur service possible pour leur apporter totale satisfaction.
+Je suis égalmenet titulaire de 2 bachelors en **Marketing & Ventes** et **Marketing** ainsi que d'un BTS **Management des Unités Commerciales**, capable de m'adapter facilement aux besoins de vos/mes clients et de leur fournir le meilleur service possible pour leur apporter totale satisfaction.
 
 Très à l'aise avec les clients, fournisseurs, etc... je suis également capable de m'intégrer parfaitement dans le **travail d'équipe** tout autant que je peux m'organiser en **totale autonomie** pour vos projets. 
 
 N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **vos projets** !
+<br/>
+<br/>
 
 ## Ce que j'apprends en ce moment ?
 - Micro-services
-- TypeScript
 - C
-- PhP
-- Symfony
 - NestJS
 - NextJS
+<br/>
 
 ## Mes projets actuels ? 
-- Application de CRUD de point d'intérêts d'une ville
-- Application d'enregistrement de scores de jeu entre amis
-- ToDoList en PhP Symfony
-- Portfolio avec Framer-Motion
+- Application d'enregistrement de scores de jeu entre amis (Catane)
+- Portfolio avec ThreeJS
+<br/>
   
 ## Ce que je souhaite faire ?
 - Développer mes connaissances dans la création d'animations
 - Perfectionnement en TypeScript
-- Prise en main de PhP / Symfony
 - Apprentissage du langage C
+<br/>
 
 ************************************************************************************************************************************************
-
+<br/>
 
 # Welcome on my GitHub profile
 
 ## Who am I?
-My name is **Grischka Gorski** and I am starting a new professional adventure as a **Web Developer / Application Developer Designer**.
+My name is **Grischka Gorski** and I am digging in my new professional adventure as a **Web Developer / Application Developer Designer**.
 
 My mantras:
 > "Failing is hard, but never having tried to succeed is worse.” 
@@ -118,9 +122,9 @@ My mantras:
 >“We often call things that we don't really want to do, impossible.” 
 > -- <cite>Mike Horn</cite>
 
-After discovering **project management at Crédit Agricole** contracting authority, as well as coding through online classes, I acquired technical skills in development to evolve in an exciting industry in which I thrive currently.
+After discovering **project management at Crédit Agricole** contracting authority, as well as programing through online classes, I acquired technical skills in development to evolve in an exciting industry in which I thrive currently.
 
-I am currently graduated as **Web and Mobile Web Developer**, and I extend my apprenticeship with a **Application Developer Designer** training program at a four-year higher education level.
+I have graduated as a Web and Mobile Web Developer, and I extended my apprenticeship with an Application Developer Designer training program at a four-year higher education level, including an intensive company internship.
 
 **Versatile, curious and highly adaptable**, my previous work experience in various business sectors has provided me with cross-disciplinary skills that will certainly be valuable in your company.
 
@@ -131,26 +135,26 @@ As well as being very confident in dealing with clients, suppliers, and so on, I
 So please feel free to contact me if you would like to discuss **your projects** with me.
 
 Best regards.
+<br/>
+<br/>
 
 ## What am I learning right now?
 - Micro-services
-- TypeScript
 - C
-- PhP
-- Symfony
 - NestJS
 - NextJS
+<br/>
 
 ## My ongoing projects?
-- CRUD Application for point of interests of a city
-- ToDoList in PhP Symfony
-- Portfolio with Framer-Motion
+- Portfolio with ThreeJS
+- Game score recording application for friends (Catan)
+<br/>
 
 ## What I would like to do?
 - Develop my knowledge in the creation of animations
 - Improvement in TypeScript
-- Getting started with PhP / Symfony
 - Learning C language
+<br/>
 
 ## How can you reach me?
 1. Email : <grischka.gorski@gmail.com>
