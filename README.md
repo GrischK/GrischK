@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @GrischK
-- 👀 I’m interested in Fulls-stack development projects,
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&pause=1500&center=true&vCenter=true&width=1920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Grischka" alt="Typing SVG" /></a>
+
+- 🚀 Full-stack JavaScript  (React | TypeScript | Node), 
+- 👀 I’m interested in Full-stack development projects,
 - 🌱 I’m currently learning ThreeJS,
 - 💞️ I’m looking to collaborate on Green tech, or impactful projects,
+
+[English version](#welcome)
 
 <!---
 GrischK/GrischK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -108,6 +112,7 @@ N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **v
 ************************************************************************************************************************************************
 <br/>
 
+<a id="welcome"></a>
 # Welcome on my GitHub profile
 
 ## Who am I?
