@@ -13,13 +13,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <br/>
 
-## Comment me contacter ?
+## Comment me contacter | How to reach me ?
 <p align="left", display:"flex">
 <a href="https://linkedin.com/in/grischka-gorski-gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grischka-gorski-gg/" height="30" width="40" /></a>
 </p>
 <br/>
 
-## Mes technos :
+## Mes technos | My stack :
 <p>Front-end :</p>
 <div align="left" display="flex"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
 </div>
 <br/>
-<p>Mais aussi :</p>
+<p>Mais aussi | But also :</p>
 <div align="left" display="flex"> 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/>
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 ## Stats :
 [![Stats](https://github-readme-stats.vercel.app/api?username=GrischK&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/GrischK/github-readme-stats)
 
-## Top langages :
+## Top langages | Top languages :
 [![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrischK)](https://github.com/GrischK/github-readme-stats)
 <br/>
 <br/>
@@ -127,7 +127,7 @@ My mantras:
 >“We often call things that we don't really want to do, impossible.” 
 > -- <cite>Mike Horn</cite>
 
-After discovering **project management at Crédit Agricole** contracting authority, as well as programing through online classes, I acquired technical skills in development to evolve in an exciting industry in which I thrive currently.
+After discovering **project management at Crédit Agricole** contracting authority, as well as programming through online classes, I acquired technical skills in development to evolve in an exciting industry in which I thrive currently.
 
 I have graduated as a Web and Mobile Web Developer, and I extended my apprenticeship with an Application Developer Designer training program at a four-year higher education level, including an intensive company internship.
 
