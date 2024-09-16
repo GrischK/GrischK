@@ -4,8 +4,9 @@
 - 👀 I’m interested in Full-stack development projects,
 - 🌱 I’m currently learning ThreeJS,
 - 💞️ I’m looking to collaborate on Green tech, or impactful projects,
+<br/>
 
-[English version](#welcome)
+<img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/uk-circle-01.png" alt="react" width="15" height="15"/> [English version](#welcome)
 
 <!---
 GrischK/GrischK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
