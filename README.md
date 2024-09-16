@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&pause=1500&center=true&vCenter=true&width=1920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Grischka" alt="Typing SVG" /></a>
 
-- 🚀 Full-stack JavaScript  (React | TypeScript | Node), 
+- 🚀 Full-stack JavaScript Developer (React | TypeScript | Node), 
 - 👀 I’m interested in Full-stack development projects,
 - 🌱 I’m currently learning ThreeJS,
 - 💞️ I’m looking to collaborate on Green tech, or impactful projects,
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 # Bienvenue sur mon profil GitHub
 
 ## Qui je suis ?
-Je m'appelle **Grischka Gorski**, plongée dans ma nouvelle aventure professionnelle de **Développeur Web / Concepteur Développeur d'Applications**.
+Je m'appelle **Grischka Gorski**, plongée dans ma nouvelle aventure professionnelle de **Développeur Web / Concepteur Développeur d'Applications** depuis plus de 2 ans.
 
 Mes crédos : 
 
@@ -116,7 +116,7 @@ N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **v
 # Welcome on my GitHub profile
 
 ## Who am I?
-My name is **Grischka Gorski** and I am digging in my new professional adventure as a **Web Developer / Application Developer Designer**.
+My name is **Grischka Gorski** and I am digging in my new professional adventure as a **Web Developer / Application Developer Designer** for more than 2 years.
 
 My mantras:
 > "Failing is hard, but never having tried to succeed is worse.” 
