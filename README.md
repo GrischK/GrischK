@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <ins>Mais aussi | But also</ins>
 <br/>
+<br/>
 <div align="left" display="flex"> 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/>
