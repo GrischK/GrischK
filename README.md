@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 <ins>Mais aussi | But also</ins>
-<div align="left" display="flex"> 
+<div align="left" display="flex" marginTop="8px"> 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -100,7 +100,7 @@ N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **v
 ## Ce que j'apprends en ce moment ?
 - Micro-services
 - C
-- NestJS
+- ThreeJs | React Three Fiber
 - NextJS
 <br/>
 
@@ -152,7 +152,7 @@ Best regards.
 ## What am I learning right now?
 - Micro-services
 - C
-- NestJS
+- ThreeJs | React Three Fiber
 - NextJS
 <br/>
 
