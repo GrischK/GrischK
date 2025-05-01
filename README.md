@@ -5,7 +5,7 @@
 <br/>
 
 
-- 🚀 Full-stack JavaScript Developer (React | TypeScript | Node), 
+- 🚀 Full-stack JavaScript Developer (React | TypeScript | Node | GrapQL), 
 - 👀 I’m interested in Full-stack development projects,
 - 🌱 I’m currently learning ThreeJS,
 - 💞️ I’m looking to collaborate on Green tech, or impactful projects,
