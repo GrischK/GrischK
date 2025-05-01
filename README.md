@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 # Bienvenue sur mon profil GitHub
 
 ## Qui je suis ?
-Je m'appelle **Grischka Gorski**, plongée dans ma nouvelle aventure professionnelle de **Développeur Web / Concepteur Développeur d'Applications** depuis plus de 2 ans.
+Je m'appelle **Grischka Gorski**, plongée dans ma nouvelle aventure professionnelle de **Développeur Web / Concepteur Développeur d'Applications** depuis 2021 ans.
 
 Mes crédos : 
 
@@ -124,7 +124,7 @@ N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **v
 # Welcome on my GitHub profile
 
 ## Who am I?
-My name is **Grischka Gorski** and I am digging in my new professional adventure as a **Web Developer / Application Developer Designer** for more than 2 years.
+My name is **Grischka Gorski** and I am digging in my new professional adventure as a **Web Developer / Application Developer Designer** since 2021.
 
 My mantras:
 > "Failing is hard, but never having tried to succeed is worse.” 
