@@ -105,35 +105,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-# Bienvenue sur mon profil GitHub
-
-## Qui je suis ?
-Je m'appelle **Grischka Gorski**, plongée dans ma nouvelle aventure professionnelle de **Développeur Web / Concepteur Développeur d'Applications** depuis 2021 ans.
-
-Mes crédos : 
-
-> "Il est dur d'échouer mais il est pire de ne jamais avoir tenté de réussir".
-> 
-> -- <cite>Franklin Delano Roosevelt</cite>
-
-> "Si votre plan échoue, changez de plan mais jamais d'objectif."
-
-> "On qualifie souvent d'impossible les choses que l'on a pas vraiment envie de faire".
->
-> -- <cite>Mike Horn</cite>
-
-Après avoir découvert le pilotage et la **gestion de projet en MOA** au **Crédit Agricole**, ainsi que la programmation via des cours en ligne, j'ai acquis des compétences techniques en développement pour évoluer dans un secteur qui m’attire et dans lequel je m’épanouis depuis plus de 2 ans. 
-
-Après avoir suivi une formation de **Développeur Intégrateur d'Applications Web** et de **Développeur Web et Web Mobile** niveau Bac+2, j'ai perfectionné et développé mes connaissances avec la formation de **Concepteur Développeur d'Applications** niveau Bac+3/4 en alternance.
-
-**Polyvalent, curieux** et doté d’une grande **capacité d’adaptation**, mes précédentes expériences professionnelles dans des secteurs d'activité variés m'ont apporté des compétences transverses qui seront certainement utiles dans votre entreprise.
-
-Je suis égalmenet titulaire de 2 bachelors en **Marketing & Ventes** et **Marketing** ainsi que d'un BTS **Management des Unités Commerciales**, capable de m'adapter facilement aux besoins de vos/mes clients et de leur fournir le meilleur service possible pour leur apporter totale satisfaction.
-
-Très à l'aise avec les clients, fournisseurs, etc... je suis également capable de m'intégrer parfaitement dans le **travail d'équipe** tout autant que je peux m'organiser en **totale autonomie** pour vos projets. 
-
-N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **vos projets** !
-<br/>
+************************************************************************************************************************************************
 <br/>
 
 ## Ce que j'apprends en ce moment ?
@@ -172,29 +144,29 @@ In my daily work, I thrive in environments like React, NestJS, or AWS. But the m
 
 🛠️ What I do today:
 
-– Smooth and accessible interfaces (React, Tailwind, Shadcn)
+- Smooth and accessible interfaces (React, Tailwind, Shadcn)
 
-– Secured authentication (Keycloak), subscriptions (Stripe), storage (MinIO)
+- Secured authentication (Keycloak), subscriptions (Stripe), storage (MinIO)
 
-– Robust APIs (NestJS, PostgreSQL, GraphQL)
+- Robust APIs (NestJS, PostgreSQL, GraphQL)
 
-– Cloud service deployment and management with AWS (S3, Lambda, Amplify…)
+- Cloud service deployment and management with AWS (S3, Lambda, Amplify…)
 
 📚 What I’ve done before (and that makes me strong):
 
-– Functional writing, scoping, testing (Business Analyst – Crédit Agricole)
+- Functional writing, scoping, testing (Business Analyst – Crédit Agricole)
 
-– Client relations in international contexts (ASOS, Bell, SITA)
+- Client relations in international contexts (ASOS, Bell, SITA)
 
-– Communication, document management, ERP (Savéol)
+- Communication, document management, ERP (Savéol)
 
 🎯 What sets me apart:
 
-– A true product culture: I think about usage, not just tech
+- A true product culture: I think about usage, not just tech
 
-– Field-tested resilience, gained far beyond code
+- Field-tested resilience, gained far beyond code
 
-– A love for quality work, fueled by curiosity… and a bit of canicross 🐾
+- A love for quality work, fueled by curiosity… and a bit of canicross 🐾
 
 💬 Got an ambitious project? A specific need? Let’s talk about it together.
 <br/>
