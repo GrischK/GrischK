@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <br/>
-<img src="https://www.linkedin.com/in/grischka-gorski-gg/overlay/background-image/" alt="dev with husky"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE2vN_715di2g/profile-displaybackgroundimage-shrink_350_1400/B4EZbUQTuhHcAc-/0/1747317767694?e=1754524800&v=beta&t=reYaZDHf4KSVRQgsp6tvKHaO7pYqu2-TAbQwovyiuhk" alt="dev with husky"/>
 <br/>
 <br/>
 <br/>
