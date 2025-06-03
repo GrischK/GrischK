@@ -192,5 +192,4 @@ In my daily work, I thrive in environments like React, NestJS, or AWS. But the m
 <br/>
 
 ## How can you reach me?
-1. Email : <grischka.gorski@gmail.com>
 2. Linkedin: [Grischka Gorski](www.linkedin.com/in/grischka-gorski-gg)
