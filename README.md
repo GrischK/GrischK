@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-## My Portfolio
+## Portfolio
 
 👉 https://grischdev.vercel.app/ 👈
 <br/>
