@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-## Info
+# Bienvenue
 
 👉 Vous cherchez un développeur fiable, passionné, et capable de s’adapter à votre univers, à votre produit… aussi bien qu’à vos utilisateurs ?
 
@@ -130,7 +130,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <a id="welcome"></a>
-# Welcome on my GitHub profile
+# Welcome
 
 👉 Are you looking for a reliable, passionate developer who can adapt to your world, your product… and your users?
 
