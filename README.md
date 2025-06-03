@@ -14,10 +14,37 @@
 <br/>
 <br/>
 
-- 🚀 Full-stack JavaScript Developer (React | TypeScript | Node | GrapQL), 
-- 👀 I’m interested in Full-stack development projects,
-- 🌱 I’m currently learning ThreeJS,
-- 💞️ I’m looking to collaborate on Green tech, or impactful projects,
+## Info
+
+👉 Vous cherchez un développeur fiable, passionné, et capable de s’adapter à votre univers, à votre produit… aussi bien qu’à vos utilisateurs ?
+
+Vos passions forgent votre caractère, vos forces, vos compétences.
+
+Ma passion ? Les chiens de traîneau 🐺... Traverser les forêts enneigées, guidant un attelage de 6 à 12 chiens ivrent de vitesse, par -20°C.
+
+Ce que j’en apprends ? La coordination. L’écoute. L’instinct. La résilience. Et l’importance de la confiance — en soi comme en l’équipe 💪.
+
+Au quotidien, c’est dans les environnements React, NestJS ou AWS que je m’épanouis. Mais l’esprit reste le même : avancer ensemble, affronter les obstacles, atteindre l’objectif !
+
+🛠️ Ce que je fais aujourd’hui :
+– Interfaces fluides et accessibles (React, Tailwind, Shadcn)
+– Authentification sécurisée (Keycloak), abonnements (Stripe), stockage (MinIO)
+– APIs robustes (NestJS, PostgreSQL, GraphQL)
+– Déploiement et gestion de services cloud avec AWS (S3, Lambda, Amplify…)
+
+📚 Ce que j’ai fait avant (et qui fait ma force) :
+– Rédaction fonctionnelle, cadrage, tests (MOA – Crédit Agricole)
+– Relation client en contexte international (ASOS, Bell, SITA)
+– Communication, gestion documentaire, ERP (Savéol)
+
+🎯 Ce qui me distingue :
+– Une vraie culture produit : je pense usage, pas seulement technique
+– Une résilience de terrain, acquise bien au-delà du code
+– Un amour du travail bien fait, nourri par la curiosité… et un peu de canicross 🐾
+
+💬 Un projet ambitieux ? Un besoin concret ? Discutons en ensemble.
+<br/>
+<br/>
 <br/>
 
 <img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/uk-circle-01.png" alt="react" width="15" height="15"/> [English version](#welcome)
@@ -26,6 +53,7 @@
 GrischK/GrischK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br/>
 <br/>
 
 ## Comment me contacter | How to reach me ?
@@ -132,31 +160,44 @@ N'hésitez donc pas à me contacter si vous souhaitez que nous discutions de **v
 <a id="welcome"></a>
 # Welcome on my GitHub profile
 
-## Who am I?
-My name is **Grischka Gorski** and I am digging in my new professional adventure as a **Web Developer / Application Developer Designer** since 2021.
+👉 Are you looking for a reliable, passionate developer who can adapt to your world, your product… and your users?
 
-My mantras:
-> "Failing is hard, but never having tried to succeed is worse.” 
-> -- <cite>Franklin Delano Roosevelt</cite>
+Your passions shape your character, your strengths, your skills.
 
-> "If your plan fails, then change it, but keep your focus."
+My passion? Sled dogs 🐺... Crossing snowy forests, guiding a team of 6 to 12 dogs drunk on speed, at -20°C.
 
->“We often call things that we don't really want to do, impossible.” 
-> -- <cite>Mike Horn</cite>
+What I’ve learned from it? Coordination. Listening. Instinct. Resilience. And the importance of trust—in oneself and in the team 💪.
 
-After discovering **project management at Crédit Agricole** contracting authority, as well as programming through online classes, I acquired technical skills in development to evolve in an exciting industry in which I thrive currently.
+In my daily work, I thrive in environments like React, NestJS, or AWS. But the mindset remains the same: moving forward together, tackling obstacles, and reaching the goal!
 
-I have graduated as a Web and Mobile Web Developer, and I extended my apprenticeship with an Application Developer Designer training program at a four-year higher education level, including an intensive company internship.
+🛠️ What I do today:
 
-**Versatile, curious and highly adaptable**, my previous work experience in various business sectors has provided me with cross-disciplinary skills that will certainly be valuable in your company.
+– Smooth and accessible interfaces (React, Tailwind, Shadcn)
 
-I also have two Bachelor's degrees in **Marketing & Sales**, and **Marketing**, as well as a BTEC Higher National Diploma in **Business Unit Management**. I can easily adapt to the needs of your/my clients and provide them with the best service possible in order to ensure their complete satisfaction.
+– Secured authentication (Keycloak), subscriptions (Stripe), storage (MinIO)
 
-As well as being very confident in dealing with clients, suppliers, and so on, I am also able to work well in a **team environment** as much as **independently** for your projects.
+– Robust APIs (NestJS, PostgreSQL, GraphQL)
 
-So please feel free to contact me if you would like to discuss **your projects** with me.
+– Cloud service deployment and management with AWS (S3, Lambda, Amplify…)
 
-Best regards.
+📚 What I’ve done before (and that makes me strong):
+
+– Functional writing, scoping, testing (Business Analyst – Crédit Agricole)
+
+– Client relations in international contexts (ASOS, Bell, SITA)
+
+– Communication, document management, ERP (Savéol)
+
+🎯 What sets me apart:
+
+– A true product culture: I think about usage, not just tech
+
+– Field-tested resilience, gained far beyond code
+
+– A love for quality work, fueled by curiosity… and a bit of canicross 🐾
+
+💬 Got an ambitious project? A specific need? Let’s talk about it together.
+<br/>
 <br/>
 <br/>
 
