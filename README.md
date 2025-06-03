@@ -2,6 +2,7 @@
 <br/>
 <br/>
 <br/>
+<img src="https://www.linkedin.com/in/grischka-gorski-gg/overlay/background-image/" alt="dev with husky"/>
 <br/>
 <br/>
 <br/>
