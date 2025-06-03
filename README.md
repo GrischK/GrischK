@@ -27,20 +27,20 @@ Ce que j’en apprends ? La coordination. L’écoute. L’instinct. La résilie
 Au quotidien, c’est dans les environnements React, NestJS ou AWS que je m’épanouis. Mais l’esprit reste le même : avancer ensemble, affronter les obstacles, atteindre l’objectif !
 
 🛠️ Ce que je fais aujourd’hui :
-– Interfaces fluides et accessibles (React, Tailwind, Shadcn)
-– Authentification sécurisée (Keycloak), abonnements (Stripe), stockage (MinIO)
-– APIs robustes (NestJS, PostgreSQL, GraphQL)
-– Déploiement et gestion de services cloud avec AWS (S3, Lambda, Amplify…)
+- Interfaces fluides et accessibles (React, Tailwind, Shadcn)
+- Authentification sécurisée (Keycloak), abonnements (Stripe), stockage (MinIO)
+- APIs robustes (NestJS, PostgreSQL, GraphQL)
+- Déploiement et gestion de services cloud avec AWS (S3, Lambda, Amplify…)
 
 📚 Ce que j’ai fait avant (et qui fait ma force) :
-– Rédaction fonctionnelle, cadrage, tests (MOA – Crédit Agricole)
-– Relation client en contexte international (ASOS, Bell, SITA)
-– Communication, gestion documentaire, ERP (Savéol)
+- Rédaction fonctionnelle, cadrage, tests (MOA – Crédit Agricole)
+- Relation client en contexte international (ASOS, Bell, SITA)
+- Communication, gestion documentaire, ERP (Savéol)
 
 🎯 Ce qui me distingue :
-– Une vraie culture produit : je pense usage, pas seulement technique
-– Une résilience de terrain, acquise bien au-delà du code
-– Un amour du travail bien fait, nourri par la curiosité… et un peu de canicross 🐾
+- Une vraie culture produit : je pense usage, pas seulement technique
+- Une résilience de terrain, acquise bien au-delà du code
+- Un amour du travail bien fait, nourri par la curiosité… et un peu de canicross 🐾
 
 💬 Un projet ambitieux ? Un besoin concret ? Discutons en ensemble.
 <br/>
