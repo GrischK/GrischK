@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <br/>
-<img src="[https://media.licdn.com/dms/image/v2/D4E16AQFcYEyyStzKzw/profile-displaybackgroundimage-shrink_350_1400/B4EZc31SVDHsAY-/0/1748988405937?e=1758758400&v=beta&t=3rjUteMV7ZM1KXKw9V8cuZmpGGNk_g7rJtubhpqWdIk](https://media.licdn.com/dms/image/v2/D4E16AQFcYEyyStzKzw/profile-displaybackgroundimage-shrink_350_1400/B4EZc31SVDHsAY-/0/1748988405937?e=1764806400&v=beta&t=EdY3xEu6ZAWtm0rWEzTLPa58PZld0eeDLWNZhmAPC3w)" alt="dev with husky"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFcYEyyStzKzw/profile-displaybackgroundimage-shrink_350_1400/B4EZc31SVDHsAY-/0/1748988405937?e=1758758400&v=beta&t=3rjUteMV7ZM1KXKw9V8cuZmpGGNk_g7rJtubhpqWdIk" alt="dev with husky"/>
 <br/>
 <br/>
 <br/>
